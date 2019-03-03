@@ -1,0 +1,180 @@
+Gebirge	Gruppe	Typ	Name	BGrad	BMinuten	BSekunden	LGrad	LMinuten	LSekunden	Höhe				
+Berner	Berner	Hütte	Anenhütte	46	27	16	7	54	41,88	2358				
+Berner	Berner	Talort	Berghaus Oberaar	46,548944			8,277274			2340				
+Berner	Berner	Talort	Fafleralp/Lötschental	46	26	26	7	51	42,4	1800				
+Berner	Berner	Hütte	Finsteraarhornhütte	46	31	19	8	6	52	3048				
+Berner	Berner	Scharte	Grünhornlücke	46	30	49,5	8	5	0,7	3280				
+Berner	Berner	Hütte	Hollandiahütte	46	28	28	7	57	36,9	3235				
+Berner	Berner	Hütte	Konkordiahütte	46	30	30	8	3	11,69	2850				
+Berner	Berner	Berg	Oberaarhorn	46	31	53,5	8	10	27,8	3631				
+Berner	Berner	Hütte	Oberaarjochhütte	46	31	33,7	8	10	23,1	3256				
+Bernina	Bernina	Hütte	Coazhütte	46	23	0,6	9	50	7,3	2610				
+Bernina	Bernina	Scharte	Fuorcla Surlej	46	25	45,6	9	50	23,4	2755				
+Bernina	Bernina	Hotel	Hotel Rosegg	46,437619			9,866304			2006				
+Bernina	Bernina	Berg	Il Chapütschin	46	22	29	9	49	9	3386				
+Bernina	Bernina	See	Lej da Vadret	46	24	1,18	9	50	49,71	2160				
+Bernina	Bernina	Seilbahn	Mittelstation Murtèl	46	25	57,6	9	49	25,5	2702				
+Bernina	Bernina	Berg	Piz Morteratsch	46	24	9	9	54	6	3751				
+Bernina	Bernina	Talort	Pontresina	46	29	24	9	54	0	1805				
+Bernina	Bernina	Talort	Surlej	46	27	32	9	48	38	1809				
+Bernina	Bernina	Hütte	Tschiervahütte	46	24	14	9	52	48,5	2573				
+Hohe Tauern	Hohe Tauern	Hütte	Alm / Hochschoberhütte?											
+Hohe Tauern	Hohe Tauern	Berg	Hochschober	46	56	34	12	41	54	3242				
+Hohe Tauern	Hohe Tauern	Talort	Lienz	46,82769			12,76272			677				
+Hohe Tauern	Hohe Tauern	Seilbahn	Lienzer Bergbahn Bergstation	46,841748			12,775955			729				
+Hohe Tauern	Hohe Tauern	Hütte	Lienzer Hütte	46,934814			12,7465332			1979				
+Hohe Tauern	Hohe Tauern	Talort	Parkplatz (Leibnitztal?) / Lessach											
+Mont Blanc	Mont Blanc	Berg	Aiguille du Tour	45	59	40,31	7	0	36,05	3542				
+Mont Blanc	Mont Blanc	Hütte	Cabane d'Orny	46	0	6,89	7	3	45,94	2831				
+Mont Blanc	Mont Blanc	Hütte	Cabane du Trient	45	59	58,48	7	2	37,87	3170				
+Mont Blanc	Mont Blanc	Talort	Champex-Lac	46	1	53,32	7	6	23,77	1485				
+Mont Blanc	Mont Blanc	Seilbahn	La Breya	46	1	17,9	7	6	11,5	2184				
+Mont Blanc	Mont Blanc	Berg	Pointe d'Orny	46,00			7			3271				
+Ortler	Ortler	Hütte	Casatihütte	46,463158			10,602489			3269				
+Ortler	Ortler	Berg	Cevedale	46,4435349			10,6165695			3728				
+Ortler	Ortler	Talort	Enzianhütte	46	29	17,57	10	41	14,01	2051				
+Ortler	Ortler	Berg	Hintere Schöntaufspitze	46	30	10	10	37	43	3325				
+Ortler	Ortler	Berg	Köllkuppe	46,4498777			10,683217			3330				
+Ortler	Ortler	Hütte	Madritsch Hütte 	46	29	40	10	36	56	2900				
+Ortler	Ortler	Hütte	Martellerhütte	46,4696313			10,6731481			2610				
+Ortler	Ortler	Seilbahn	Sulden Seilbahn Bergstation	46	29	26	10	35	56	2606				
+Ortler	Ortler	Talort	Sulden Seilbahn Talstation	46	30	52	10	35	49	1915				
+Ortler	Ortler	Berg	Vordere Rotspitze	46	28	38	10	42	22	3033				
+Ortler	Ortler	Hütte	Zufallhütte	46,4815139			10,6791723			2264				
+Ötztal	Ötztaler	Hütte	Breslauer Hütte	46,8682162			10,8792543			2852				
+Ötztal	Ötztaler	Berg	Dahmannspitze	46	50	50	10	46	35	3401				
+Ötztal	Ötztaler	Berg	Fluchtkogel	46	51	28	10	47	33	3500				
+Ötztal	Ötztaler	Hütte	Vernagt Hütte	46	51	13	10	49	26	2766				
+Ötztal	Ötztaler	Berg	Wildspitze	46	53	7	10	52	2	3768				
+Ötztaler	Ötztaler	Hütte	Bergl-Alm	46	43	26,96	10	48	5,26	2214				
+Ötztaler	Ötztaler	Hütte	Brandenburger Haus	46	50	40	10	46	40	3277				
+Ötztaler	Ötztaler	Seilbahn	Doppelsessel Wildspitze	46,8632655			10,9031923			2364				
+Ötztaler	Ötztaler	Hütte	Hochjochhospitz	46,8252007			10,8338392			2413				
+Ötztaler	Ötztaler	Berg	Kreuzspitze	46,8090849			10,8687164			3457				
+Ötztaler	Ötztaler	Hütte	Martin Busch Hütte	46,8010546			10,8869255			2505				
+Ötztaler	Ötztaler	Hütte	Oberetteshütte	46,764893			10,711096			2659				
+Ötztaler	Ötztaler	Scharte	Ötzi Fundort	46	46	44	10	50	24	3210				
+Ötztaler	Ötztaler	Berg	Saldurspitze	46	44	24,38	10	44	6,37	3433				
+Ötztaler	Ötztaler	Hütte	Similaunhütte	46	46	20,6	10	51	16,3	3019				
+Ötztaler	Ötztaler	Talort	Tappein	46	38	22,7	10	47	29,2	1397				
+Ötztaler	Ötztaler	Talort	Vent, AT	46,862041			10,9161562			1893				
+Ötztaler	Ötztaler	Talort	Vernagt Stausee	46	44	6,18	10	50	58,41	1711				
+Ötztaler	Ötztaler	Berg	Weißkugel	46,8			10,7333333			3738				
+Ötztaler	Ötztaler	Berg	Zerminiger Südwestgipfel	46	40	2	10	48	44	3059				
+Pfunderer	Pfunderer	Talort	Almdorf Fane ?											
+Pfunderer	Pfunderer	Hütte	Brixener Hütte	46,9470299			11,7391149			2539				
+Pfunderer	Pfunderer	Hütte	Sterzinger Hütte	46	55	11,3	11	34	18,1	2344				
+Pfunderer	Pfunderer	Berg	Wilde Kreuzspitze	46,9166667			11,5833333			3135				
+Pfunderer	Pfunderer	See	Wilder See	46	53	52	11	35	23	2532				
+Pfunderer	Pfunderer	Berg	Wurmaulspitze	46	54	50	11	38	15	3022				
+Pfunderer	Pfunderer	Talort												
+Stubaier	Stubaier	Hütte	Becherhütte	46	57	39,1	11	11	32,4	3195				
+Stubaier	Stubaier	Talort	Maiern	46	55	42,3	11	16	15,9	1417				
+Stubaier	Stubaier	Hütte	Müllerhütte	46	57	47	11	10	41	3148				
+Stubaier	Stubaier	Hütte	Schneeberghütte	46	53	56,2	11	10	53,4	2354				
+Stubaier	Stubaier	Berg	Sonklarspitze	46	57	20	11	9	53	3463				
+Stubaier	Stubaier	Hütte	Teplitzer Hütte	46	57	20	11	13	38	2586				
+Stubaier	Stubaier	Berg	Wilder Freiger	46	58	14	11	11	23	3418				
+Verwall	Verwall	Hütte	Darmstätter Hütte	47	3	11	10	14	47	2384				
+Verwall	Verwall	Hütte	Edmund Graf Hütte	47,1060187			10,3557478			2408				
+Verwall	Verwall	Hütte	Friedrichshafener Hütte	46,9955387			10,2160927			2119				
+Verwall	Verwall	Hütte	Heilbronner Hütte	47,0072009			10,1389084			2285				
+Verwall	Verwall	Berg	Hoher Riffler	47,1166667			10,3666667			3168				
+Verwall	Verwall	Talort	Ischgl	47,0118452			10,2884195			1351				
+Verwall	Verwall	Hütte	Kieler Wetterhütte	47,0518026			10,2905484			2800				
+Verwall	Verwall	Berg	Kreuzjochspitze	47,07920			10,30546			2919				
+Verwall	Verwall	Scharte	Kuchenjoch	47,0694079			10,1889641			1683				
+Verwall	Verwall	Hütte	Niederelbehütte	47,0624969			10,3159006			2300				
+Verwall	Verwall	Talort	Pettneu	47	9	0	10	21	0	1222				
+Verwall	Verwall	Talort	Sankt Anton	47	7		10	16		1284				
+Verwall	Verwall	Berg	Scheibler	47	3	31	10	13	19	2978				
+Verwall	Verwall	Scharte	Schmalzgrubenjoch	47	5	42	10	21	5	2697				
+Verwall	Verwall	Berg	Seeköpfe	47	2	42	10	16	1	3061				
+Verwall	Verwall	Talort	Silvretta Stausee	46,9064318			10,0940069			2037				
+Walliser	Weißhorn	Berg	Äußeres Barrhorn	46	9	21,3	7	44	2,5	3610				
+Walliser	Walliser	Seilbahn	Bergstation Klein Matterhorn	45	56	15	7	43	46	3817				
+Walliser	Walliser	Hütte	Bergstation Klein Matterhorn	45	56	15	7	43	46	3817				
+Walliser	Monte Rosa	Seilbahn	Bergstation Trockener Steg	45	58	18,42	7	43	20,54	2939				
+Walliser	Mischabel	Hütte	Bordierhütte	46	8	40	7	50	59	2886				
+Walliser	Walliser	Berg	Breithorn Mittelgipfel	45	56	20	7	45	22	4159				
+Walliser	Walliser	Berg	Breithorn Westgipfel	45	56	27	7	44	53	4164				
+Walliser	Weißhorn	Scharte	Bruneggjoch	46	7,92		7	44,3		3400				
+Walliser	Monte Rosa	Hütte	Capanna Regina Margherita	45	55	38	7	52	37	4554				
+Walliser	Monte Rosa	Berg	Castor	45	55	15	7	47	36	4223				
+Walliser	Monte Rosa	Hütte	Edelweisshütte	46	1	20,19	7	44	16,82	1961				
+Walliser	Allalin	Berg	Feechopf	46	2	54,69	7	53	0,71	3888				
+Walliser	Monte Rosa	Hütte	Gandegghütte	45	57	50,9	7	43	32,11	3030				
+Walliser	Mischabel	Talort	Gasenried	46	10	47	7	49	32	1659				
+Walliser	Monte Rosa	Hütte	Gnifettihütte	45	53	59	7	51	0	3647				
+Walliser	Monte Rosa	Talort	Gressoney-La-Trinité	45	50	0	7	50	0	1635				
+Walliser	Monte Rosa	Hütte	Hotel du Trift	46	1	48,17	7	43	15,82	2337				
+Walliser	Weißhorn	Hütte	Hotel Schwarzhorn	46,2116218			7,7064853			1834				
+Walliser	Weißhorn	Hütte	Hotel Weißhorn	46,2082844			7,6153872			2337				
+Walliser	Weißhorn	Seilbahn	Jungen	46	11	43	7	47	56	1955				
+Walliser	Walliser	Berg	Klein Matterhorn	45	56	19	7	43	47	3883				
+Walliser	Weißhorn	Berg	L'Omèn Rosso	46	10	28	7	39	37	3031				
+Walliser	Monte Rosa	Berg	Mettelhorn	46	3	20,5	7	44	29,04	3410				
+Walliser	Monte Rosa	Hütte	Monte Rosa Hütte	45	57	24,83	7	48	52,32	2883				
+Walliser	Allalin	Talort	Ottafe	46	3	29,19	7	48	40,06	2205				
+Walliser	Monte Rosa	Berg	Platthorn	46	3	13,34	7	44	11,04	3345				
+Walliser	Monte Rosa	Seilbahn	Punta Indren	45	53	23	7	51	55	3260				
+Walliser	Monte Rosa	Hütte	Rifugio Quintino Sella	45	54	4,1	7	47	34,05	3585				
+Walliser	Monte Rosa	Seilbahn	Rotenboden	45	59	4,05	7	45	55,06	2819				
+Walliser	Weißhorn	Talort	Saint-Luc CH	46,2212076			7,5959602			1646				
+Walliser	Weißhorn	Talort	Sankt Niklaus	46,1762332			7,8045917			1099				
+Walliser	Monte Rosa	Berg	Schneedomspitze	45	55	0,15	7	50	6,24	4272				
+Walliser	Monte Rosa	Berg	Signalkuppe	45	55	38	7	52	37	4554				
+Walliser	Allalin	Hütte	Täschhütte	46	3	5,5	7	49	48	2701				
+Walliser	Weißhorn	Hütte	Topalihütte	46,1569901			7,7620554			2670				
+Walliser	Weißhorn	Hütte	Turtmannhütte	46,1600705			7,6994688			2517				
+Walliser	Mischabel	Berg	Ulrichshorn	46	7	4	7	52	36	3925				
+Walliser	Monte Rosa	Talort	Zermatt Bahnhof	46	1	26,14	7	44	54,95	1605				
+Walliser	Walliser	Talort	Zermatt Talstation	46	0	53	7	44	34	1638				
+Zillertaler	Zillertaler	Hütte	Edelrauthütte	46,9470299			11,7391149			2545				
+Zillertaler	Zillertaler	Berg	Hochfeiler	46,9730915			11,7278338			3509				
+Zillertaler	Zillertaler	Hütte	Hochfeiler Hütte	46	57	43,8	11	42	30,5	2710				
+Zillertaler	Zillertaler	Berg	Niederes Gipfelkreuz											
+Zillertaler	Zillertaler	Scharte	Untere Weißzintscharte											
+Zillertaler	Zillertaler	Talort												
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														
+														

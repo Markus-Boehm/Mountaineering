@@ -1,10 +1,11 @@
 # Mountaineering
 
-![BergFacetKarte.png](BergFacetKarte.png)
+![BergFacetKarte.png](doc/BergFacetKarte.png)
 
-![BergFacetHÃ¶he.png](BergFacetHÃ¶he.png)
+![BergFacetHöhe.png](doc/BergFacetHöhe.png)
 
-##ToDo
+## ToDo
+
 * Add Code
 * Add POI
 * Add Track
